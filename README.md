@@ -1,4 +1,4 @@
-####ravenous
+#### ravenous
 An app to search for restaurants in any location using the Yelp API.
 
 
@@ -7,10 +7,10 @@ Clone this repo
 Run npm install
 Run npm start
 
-##Prerequisites
+## Prerequisites
 You will need to generate your own API Key on Yelp at https://www.yelp.com/developers
 
-###Built With
+### Built With
 React
 react-loading - For loading effetcs
 
