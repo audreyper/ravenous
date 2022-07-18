@@ -1,0 +1,5 @@
+
+const apiConfig = {apiKey:'XyMbowUt2BhWqEcbfrie7DrB5Gu4gNPVTP3hu4BdyWQB3DSo0RETUa_RuzpuczP9dUNhKY0JKJiHFxTvHDdYJCFOD2vyc7mEUZ5JoH42RucGPOCQpo6IYMYLRRPPYnYx'}
+
+
+export default apiConfig;
