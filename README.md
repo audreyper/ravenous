@@ -1,6 +1,10 @@
 # ravenous
 An app to search for restaurants in any location using the Yelp API.
 
+## Try it live [here](https://ephemeral-cendol-e7d471.netlify.app/).
+
+You will have to request a temporary access to the demo server [here](https://cors-anywhere.herokuapp.com/corsdemo) to make the demo work. 
+
 
 ## Getting Started
 Clone this repo
@@ -11,6 +15,6 @@ Run npm start
 You will need to generate your own API Key on Yelp at https://www.yelp.com/developers
 
 ## Built With
-React
-react-loading - For loading effetcs
+[React](https://reactjs.org/)
+[react-loading](https://github.com/fakiolinhhttps://reactjs.org/o/react-loading) - For loading effetcs
 
