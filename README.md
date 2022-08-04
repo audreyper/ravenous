@@ -1,9 +1,9 @@
 # ravenous
 An app to search for restaurants in any location using the Yelp API.
 
-## Try it live [here](https://ephemeral-cendol-e7d471.netlify.app/).
+## Try it live [here](https://ephemeral-cendol-e7d471.netlify.app/)
 
-You will have to request a temporary access to the demo server [here](https://cors-anywhere.herokuapp.com/corsdemo) to make the demo work. 
+You will have to request a temporary access to the CORS Anywhere demo server [here](https://cors-anywhere.herokuapp.com/corsdemo) to make the app's demo work. 
 
 
 ## Getting Started
