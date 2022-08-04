@@ -1,4 +1,4 @@
-# ravenous
+# Ravenous
 An app to search for restaurants in any location using the Yelp API.
 
 ## Try it live [here](https://ephemeral-cendol-e7d471.netlify.app/)
