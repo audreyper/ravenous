@@ -16,5 +16,6 @@ You will need to generate your own API Key on Yelp at https://www.yelp.com/devel
 
 ## Built With
 [React](https://reactjs.org/)
+
 [react-loading](https://github.com/fakiolinhhttps://reactjs.org/o/react-loading) - For loading effetcs
 
